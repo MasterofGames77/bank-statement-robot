@@ -1,0 +1,16 @@
+{
+  "Tags": [
+    {
+      "Key": "Bank"
+    },
+    {
+      "Key": "Statements"
+    },
+    {
+      "Key": "Excel"
+    }
+  ],
+  "SeparateRuntimeDependencies": true,
+  "IncludeSources": true,
+  "ConnectorKeys": []
+}
