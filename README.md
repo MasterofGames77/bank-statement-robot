@@ -45,7 +45,3 @@ This UiPath automation project performs **bank statement reconciliation** by com
 - You can adjust the sheet names, file paths, and data schemas in `Main.xaml` as needed
 
 ---
-
-## 📄 License
-
-This project is open-source under the [MIT License](LICENSE)
