@@ -1,0 +1,15 @@
+# Ignore UiPath-specific temp folders
+.local/
+.settings/
+.project/
+.tmh/
+.objects/
+
+# Output files
+Output/
+
+# Logs
+*.log
+
+# Visual Studio folders
+.vs/
